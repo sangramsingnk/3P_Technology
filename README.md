@@ -4,7 +4,7 @@
 **Assignment used**: Technical Assignment — LLM & RAG Implementation. 
 
 ## Deliverables
-- Working prototype (code in `src/`)
+- Working prototype (code in `3P/`)
 - Knowledge base with 10 example projects (`data/example_projects.json`)
 - Learning metrics dashboard (`dashboard/app.py`)
 - Demo showing before/after learning (`run_demo.py`)
