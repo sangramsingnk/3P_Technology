@@ -9,7 +9,6 @@
 - Learning metrics dashboard (`dashboard/app.py`)
 - Demo showing before/after learning (`run_demo.py`)
 - Strategy document and ROI computation (`docs/strategy_document.md`, `docs/roi_calculation.md`)
-- 30-min presentation (`presentation/slides.md` + `presentation/create_pptx.py`)
 
 ## How to run (local)
 1. Create virtualenv and install:
