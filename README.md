@@ -6,9 +6,9 @@
 ## Deliverables
 - Working prototype (code in `3P/`)
 - Knowledge base with 10 example projects (`data/example_projects.json`)
-- Learning metrics dashboard (`dashboard/app.py`)
+- Learning metrics dashboard (`app.py`)
 - Demo showing before/after learning (`run_demo.py`)
-- Strategy document and ROI computation (`docs/strategy_document.md`, `docs/roi_calculation.md`)
+- ROI computation (``roi_calculation.md`)
 
 ## How to run (local)
 1. Create virtualenv and install:
