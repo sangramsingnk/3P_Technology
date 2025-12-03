@@ -15,7 +15,7 @@ This project implements a **Self-Learning Impact Analysis System for Industrial 
 - ROI computation (``roi_calculation.md`)
 
 
-⚙️ Requirements
+⚙️ ## Requirements
 Python 3.9+
 Streamlit
 Pandas
