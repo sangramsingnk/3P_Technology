@@ -23,10 +23,7 @@ NetworkX
 PyVis
 Matplotlib
 pip install streamlit pandas networkx pyvis matplotlib
-pip install -r requirements.txt
-
-
-
+pip install -r requirements.txt '''
 
 
 
