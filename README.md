@@ -14,17 +14,14 @@ This project implements a **Self-Learning Impact Analysis System for Industrial 
 - Streamlit Learning Metrics Dashboard (`app.py`)
 - ROI computation (``roi_calculation.md`)
 
-
-Requirements:
-```Python 3.9+
-Streamlit
-Pandas
-NetworkX
-PyVis
-Matplotlib
-pip install streamlit pandas networkx pyvis matplotlib
-pip install -r requirements.txt '''
-
+## Features available in the dashboard:
+- Metrics: Projects count, average hour delta, on-time rate.
+- Knowledge Growth: Line chart of cumulative facts over time.
+- Error Reduction Simulation: Bar chart showing before/after performance.
+- Project Explorer: Select a project and view details.
+- Knowledge Query (RAG): Ask questions about the knowledge base.
+- Tender Parser: Paste tender text to extract I/O points, protocols, redundancy, response time.
+- Knowledge Graph: Interactive visualization of projects, industries, and platforms.
 
 
 🚀 ## How to run (local)
@@ -37,6 +34,17 @@ Clone the repository.
 Ensure data/example_projects.json exists.
 Run the dashboard:
 streamlit run app.py
+
+
+Requirements:
+Python 3.9+
+Streamlit
+Pandas
+NetworkX
+PyVis
+Matplotlib
+pip install streamlit pandas networkx pyvis matplotlib
+pip install -r requirements.txt
 
 
 ## Notes
