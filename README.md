@@ -6,6 +6,7 @@
 ## Deliverables
 - Working prototype (code in `3P/`)
 - Knowledge base with 10 example projects (`data/example_projects.json`)
+- Knowledge Query (RAG) - (rag_pipeline.py)
 - Learning metrics dashboard (`app.py`)
 - Demo showing before/after learning (`run_demo.py`)
 - ROI computation (``roi_calculation.md`)
