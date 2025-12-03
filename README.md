@@ -31,6 +31,7 @@ source 3P/bin/activate
 
 Clone the repository.
 Ensure data/example_projects.json exists.
+
 Run the dashboard:
 streamlit run app.py
 
