@@ -1,6 +1,5 @@
 # Self-Learning Impact Analysis System (RAG + LLM) — Submission
 
-**Candidate**: Sangramsing N. Kayte  
 **Assignment used**: Technical Assignment — LLM & RAG Implementation. 
 
 This project implements a **Self-Learning Impact Analysis System for Industrial Automation** for industrial automation projects, featuring: RAG-based knowledge search, tender text parsing, learning metrics, and a knowledge graph.
