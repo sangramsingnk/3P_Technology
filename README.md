@@ -9,8 +9,7 @@ This project implements a **Self-Learning Impact Analysis System for Industrial 
 
 ## 📂 The project structure and deliverables include the working prototype code
 
-data/
- - example_projects.json # Knowledge base with 10 example projects
+data/ example_projects.json # Knowledge base with 10 example projects
 - rag_pipeline.py # Knowledge Query (RAG) pipeline
 - parser.py # Tender Parser (extracts I/O points, protocols, redundancy, response time)
 - knowledge_graph.py # Knowledge Graph implementation and visualization
