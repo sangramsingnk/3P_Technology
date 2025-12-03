@@ -15,8 +15,8 @@ This project implements a **Self-Learning Impact Analysis System for Industrial 
 - ROI computation (``roi_calculation.md`)
 
 
-⚙️ ## Requirements
-Python 3.9+
+Requirements:
+```Python 3.9+
 Streamlit
 Pandas
 NetworkX
@@ -24,6 +24,9 @@ PyVis
 Matplotlib
 pip install streamlit pandas networkx pyvis matplotlib
 pip install -r requirements.txt
+
+
+
 
 
 
