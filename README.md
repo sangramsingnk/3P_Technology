@@ -11,7 +11,7 @@ This project implements a **Self-Learning Impact Analysis System for Industrial 
 - Tender Parser (extracts I/O points, protocols, redundancy, response time)(`parser.py`)
 - Knowledge Graph implementation and visualization (`knowledge_graph.py`)
 - Streamlit Learning Metrics Dashboard (`app.py`)
-- ROI computation (``roi_calculation.md`)
+- ROI computation (`roi_calculation.md`)
 
 ## Features available in the dashboard:
 - Metrics: Projects count, average hour delta, on-time rate.
