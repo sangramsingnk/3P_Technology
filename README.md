@@ -36,6 +36,20 @@ Run the dashboard:
 streamlit run app.py
 
 
+Tender Text Parser
+We require 128 I/O points, Profinet and OPC UA. Response time 50 ms. N-1 redundancy.
+
+
+
+Knowledge Query (RAG)
+Ask a question about the knowledge base:
+
+Which platforms are most common in pharma projects?
+
+What lessons reduced engineering hours?
+
+Which protocols cause the most errors?
+
 Requirements:
 Python 3.9+
 Streamlit
