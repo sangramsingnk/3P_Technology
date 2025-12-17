@@ -43,12 +43,9 @@ We require 128 I/O points, Profinet and OPC UA. Response time 50 ms. N-1 redunda
 
 Knowledge Query (RAG)
 Ask a question about the knowledge base:
-
-Which platforms are most common in pharma projects?
-
-What lessons reduced engineering hours?
-
-Which protocols cause the most errors?
+Users can ask natural language questions like:
+What common issues occur in chemical industry PLC projects?
+Which platform causes most delays?
 
 Requirements:
 Python 3.9+
